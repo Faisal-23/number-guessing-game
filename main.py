@@ -1,3 +1,6 @@
+
+#Number guessing game
+
 import random
 
 num = int(input("Guess a number between 1 and 10\n"))
